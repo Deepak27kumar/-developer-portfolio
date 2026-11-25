@@ -1,16 +1,16 @@
 Starting Point Assessment
 
-Python   3 – Intermediate
+Python --> 3 – Intermediate
 
-Linux / Bash   2 – Beginner
+Linux / Bash --> 2 – Beginner
 
-Git / GitHub   2 – Beginner
+Git / GitHub --> 2 – Beginner
 
-DSA   1 – No knowledge
+DSA --> 1 – No knowledge
 
-Databases   1 – No knowledge
+Databases --> 1 – No knowledge
 
-Web Development   3 - Intermediate
+Web Development --> 3 - Intermediate
 
 ONE primary specialisation track 
 
